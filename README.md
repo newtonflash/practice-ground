@@ -20,16 +20,16 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css
 
 ### Javascript
 you can choose any one from the following
-# jQuery #
+#### jQuery 
 https://code.jquery.com/jquery-3.6.0.min.js
 
-# umbrella js # 
+#### umbrella js
 https://umbrellajs.com/
 
-# lodash #
+### lodash 
 https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js
 
-# Preact - in case you need an react alternative #
+#### Preact - in case you need an react alternative 
 
 https://cdn.jsdelivr.net/npm/preact/dist/preact.min.js
 
