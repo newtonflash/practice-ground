@@ -26,7 +26,7 @@ https://code.jquery.com/jquery-3.6.0.min.js
 #### umbrella js
 https://umbrellajs.com/
 
-### lodash 
+#### lodash 
 https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js
 
 #### Preact - in case you need an react alternative 
